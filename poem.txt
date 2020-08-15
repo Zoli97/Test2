@@ -9,7 +9,6 @@ White
 Black
 Yellow
 My unicorn
-branch !!
 These are the colors of the rainbow.
 And the unicorn
 This is a new branch 
