@@ -9,6 +9,8 @@ White
 Black
 Yellow
 My unicorn
+blue
+brown
 These are the colors of the rainbow.
 And the unicorn
 
